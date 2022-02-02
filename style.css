@@ -8,16 +8,17 @@ rbody {
 }
 
 a{text-decoration: none;}
+/*--*
 button {
   transition: all 0.3s ease-in-out;
   outline: none !important;
 }
-
+/*--*
 a:hover {
   text-decoration: none;
   cursor: pointer;
 }
-
+/*--*/
 #page-loading-blocs-notifaction {
   position: fixed;
   top: 0;
@@ -344,7 +345,7 @@ a:hover {
 .nav > li a:focus {
   background: transparent;
 }
-
+/*--*
 .navbar-toggle {
   margin: 10px 10px 0 0;
   border: 0px;
@@ -353,7 +354,7 @@ a:hover {
 .navbar-toggle:hover {
   background: transparent !important;
 }
-
+/*--*/
 .navbar-toggle .icon-bar {
   background-color: rgba(0, 0, 0, 0.5);
   width: 26px;
