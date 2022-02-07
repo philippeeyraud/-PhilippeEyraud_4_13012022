@@ -1439,7 +1439,7 @@ img {
 .img-responsive,
 .thumbnail a>img,
 .thumbnail>img {
-    display: block;
+  
     max-width: 100%;
     height: auto
 }
@@ -3238,8 +3238,7 @@ input[type=search] {
 .checkbox,
 .radio {
     position: relative;
-    display: block;
-    margin-top: 10px;
+     margin-top: 10px;
     margin-bottom: 10px
 }
 
@@ -5369,6 +5368,11 @@ textarea.input-group-sm>.input-group-btn>.btn {
     .navbar-form .form-group:last-child {
         margin-bottom: 0
     }
+    .portfolio-thumb {
+        margin-bottom: 24px;
+        width:320px;
+       
+           
 }
 
 @media (min-width:768px) {
@@ -6039,7 +6043,6 @@ a.badge:hover {
 }
 
 .thumbnail {
-    display: block;
     padding: 4px;
     margin-bottom: 20px;
     line-height: 1.42857143;
