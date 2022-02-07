@@ -15,9 +15,9 @@
     display: inline-block;
     font: normal normal normal 14px/1 FontAwesome;
     font-size: inherit;
-    text-rendering: auto;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
+ 
 }
 
 .fa-lg {
@@ -173,7 +173,7 @@
     -ms-transform: scale(1, -1);
     transform: scale(1, -1)
 }
-
+/*--*
 :root .fa-rotate-90,
 :root .fa-rotate-180,
 :root .fa-rotate-270,
@@ -181,7 +181,7 @@
 :root .fa-flip-vertical {
     filter: none
 }
-
+/*--*/
 .fa-stack {
     position: relative;
     display: inline-block;
