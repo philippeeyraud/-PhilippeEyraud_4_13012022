@@ -567,8 +567,8 @@ a[data-lightbox]:hover img {
 }
 
 #lightbox-modal .modal-dialog {
-  width: 50%;
-  max-width: 900px;
+  width: 100%;
+  max-width: 250px;
   margin: 0 auto 0;
 }
 
@@ -756,8 +756,8 @@ width: 320px;
 }
 
 .black-background {
-  background-color: rgba(165, 147, 99, 0.7);
-  padding: 40px 40px 40px 40px;
+  background-color: rgb(150 111 8 / 70%);
+ 
 }
 
 .bold-link {
@@ -782,8 +782,8 @@ width: 320px;
 }
 
 .btn-atomic-tangerine {
-  background: #f76622;
-  color: #FFFFFF!important;
+ background: #ffa57b;
+    color: #121111!important;
 }
 
 .btn-atomic-tangerine:hover {
